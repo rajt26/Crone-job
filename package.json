@@ -1,0 +1,24 @@
+{
+  "name": "crone-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajt26/Crone-job.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajt26/Crone-job/issues"
+  },
+  "homepage": "https://github.com/rajt26/Crone-job#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node-cron": "^2.0.3"
+  }
+}
